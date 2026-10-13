@@ -11,6 +11,6 @@ Aprendiza de Análisis y Desarrollo de Software
 <details>
 <summary>Aprendices SENA</summary>
 
-Ficha ADSO
+Ficha 3387753
 
 </details>
